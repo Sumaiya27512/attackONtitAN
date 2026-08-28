@@ -35,8 +35,8 @@ The project is an interactive 2D narrative mini-game built using C++ and OpenGL 
 3. Lib Files: Copy .a files and then paste them into: C:\Program Files\CodeBlocks\MinGW\x86_64-w64-mingw32\lib.
 4. Install **Notepad++** if not already installed.
    * C:\Program Files\CodeBlocks\share. then select 'glut.cbp' in notepad++. then goto to search then replace:
-   * Find what:** 'glut32'
-   * Replace with:** 'freeglut'.
+   * Find what: 'glut32'
+   * Replace with: 'freeglut'.
    * Click **Replace All** and save the file.
 5.  C:\Program Files\CodeBlocks\wizard. then select 'glut'. then do as step 4 process.
 
