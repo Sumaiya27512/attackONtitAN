@@ -3,8 +3,8 @@
 # Project Purpose & Overview
 The project is an interactive 2D narrative mini-game built using C++ and OpenGL (FreeGLUT). It takes the player through an animated, story-driven adventure featuring a character named Mimi as she explores a magical forest, interacts with wildlife, crosses a river, catches a falling star, and returns home.
 
-* STORY OVERVIEW:
-Mimi lives near a beautiful forest. One day, she meets a playful magical butterfly and plays with it. Along the way, a friendly rabbit helps her to cross the river. As night falls, a glowing star magically falls from the sky. Mimi catches it, and suddenly the entire forest lights up with beautiful magic. With a heart full of wonder, Mimi returns home, carrying the memory of her little magical adventure.
+**STORY OVERVIEW:**
+ Mimi lives near a beautiful forest. One day, she meets a playful magical butterfly and plays with it. Along the way, a friendly rabbit helps her to cross the river. As night falls, a glowing star magically falls from the sky. Mimi catches it, and suddenly the entire forest lights up with beautiful magic. With a heart full of wonder, Mimi returns home, carrying the memory of her little magical adventure.
 
 # Project at a Glance
 
@@ -15,8 +15,6 @@ Mimi lives near a beautiful forest. One day, she meets a playful magical butterf
 | **Graphics Library** | OpenGL with FreeGLUT |
 | **Group Member** |• Sania Hossain Sigma (ID: 233031212)<br>• Hridita Chandra Deb (ID: 233030612)<br>• Sumaiya Akter (ID: 233027512)  |
 | **Department & University** | COMPUTER SCIENCE AND ENGINEERING, EAST DELTA UNIVERSITY |
-
-![Enchanted Forest Demo](docs/forest.gif)
 
 <p align="center">
   <img src="docs/forest.gif" width="700" alt="Game Demo">
@@ -51,6 +49,7 @@ Mimi lives near a beautiful forest. One day, she meets a playful magical butterf
 1. Download "ENCHANTED_FOREST.cbp".
 2. Open the project in Code::Blocks.
 3. Select Build and Run.
+
 
 
 
