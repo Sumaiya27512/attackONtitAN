@@ -1,10 +1,11 @@
 # A Little Journey To The Enchanted Forest - An iteractive 2D Animated Story
 
-# Project Purpose & Overview
+# Project Purpose & Overview:
 The project is an interactive 2D narrative mini-game built using C++ and OpenGL (FreeGLUT). It takes the player through an animated, story-driven adventure featuring a character named Mimi as she explores a magical forest, interacts with wildlife, crosses a river, catches a falling star, and returns home.
 
 **STORY OVERVIEW:**
- Mimi lives near a beautiful forest. One day, she meets a playful magical butterfly and plays with it. Along the way, a friendly rabbit helps her to cross the river. As night falls, a glowing star magically falls from the sky. Mimi catches it, and suddenly the entire forest lights up with beautiful magic. With a heart full of wonder, Mimi returns home, carrying the memory of her little magical adventure.
+
+Mimi lives near a beautiful forest. One day, she meets a playful magical butterfly and plays with it. Along the way, a friendly rabbit helps her to cross the river. As night falls, a glowing star magically falls from the sky. Mimi catches it, and suddenly the entire forest lights up with beautiful magic. With a heart full of wonder, Mimi returns home, carrying the memory of her little magical adventure.
 
 # Project at a Glance
 
@@ -50,8 +51,13 @@ The project is an interactive 2D narrative mini-game built using C++ and OpenGL 
 2. Open the project in Code::Blocks.
 3. Select Build and Run.
 
-# CONCLUSION:
-A Little Journey to the Enchanted Forest** successfully demonstrates the integration of core 2D computer graphics principles, mathematical trajectory calculations, and interactive state management using C++ and OpenGL (FreeGLUT). By building the entire environment procedurally—without relying on pre-rendered image textures—the project highlights how basic visual building blocks like geometric primitives, smooth color interpolation, trigonometric curves, and timing loops can be combined to create a compelling, animated narrative experience.
+# Conclusion:
+Throughout the project, several fundamental computer graphics and software design concepts were implemented:
+* Smooth scene transitions managed through keyboard inputs s,SPACEBAR,d,r guiding Mimi's journey from home through the forest and back
+* Trigonometric functions ($\sin$, $\cos$) were utilized to simulate natural movements, including the butterfly's flight path, sway of trees, flowing water waves, and falling leaves.
+* Real-time transformation logic, key-driven sequence updates, and scene state management.
+
+Therefore, this project serves as a clear demonstration of foundational 2D OpenGL graphics, transformation matrices, animation loops, and event-driven interaction, bringing code to life as a charming graphical story experience.
 
 
      
