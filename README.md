@@ -50,7 +50,8 @@ The project is an interactive 2D narrative mini-game built using C++ and OpenGL 
 2. Open the project in Code::Blocks.
 3. Select Build and Run.
 
-
+# CONCLUSION:
+A Little Journey to the Enchanted Forest** successfully demonstrates the integration of core 2D computer graphics principles, mathematical trajectory calculations, and interactive state management using C++ and OpenGL (FreeGLUT). By building the entire environment procedurally—without relying on pre-rendered image textures—the project highlights how basic visual building blocks like geometric primitives, smooth color interpolation, trigonometric curves, and timing loops can be combined to create a compelling, animated narrative experience.
 
 
      
