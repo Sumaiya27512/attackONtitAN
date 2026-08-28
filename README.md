@@ -1,4 +1,4 @@
-# A Little Journey To The Enchanted Forest - An iteractive 2D Animated Story
+# A Little Journey To The Enchanted Forest - An Interactive 2D Animated Story
 
 # Project Purpose & Overview:
 The project is an interactive 2D narrative mini-game built using C++ and OpenGL (FreeGLUT). It takes the player through an animated, story-driven adventure featuring a character named Mimi as she explores a magical forest, interacts with wildlife, crosses a river, catches a falling star, and returns home.
